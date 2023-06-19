@@ -1,0 +1,2 @@
+python3-resolver==1.0.3
+xmltodict==0.13.0
